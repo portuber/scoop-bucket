@@ -1,0 +1,22 @@
+{
+    "version": "0.3.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/portuber/portato/releases/download/v0.3.0/portato_0.3.0_Windows_x86_64.zip",
+            "bin": [
+                "portato.exe"
+            ],
+            "hash": "b6e92919b8062589d8f1bfe2208f987c42d310cf48deb75bdf229ad8b0fcd50d"
+        },
+        "arm64": {
+            "url": "https://github.com/portuber/portato/releases/download/v0.3.0/portato_0.3.0_Windows_arm64.zip",
+            "bin": [
+                "portato.exe"
+            ],
+            "hash": "f14163e2084fa3e87600732ffdd030d7ee4e825d146380312f27017afc113b75"
+        }
+    },
+    "homepage": "https://github.com/portuber/portato",
+    "license": "MIT",
+    "description": "SSH port-forwarding manager with a TUI"
+}
