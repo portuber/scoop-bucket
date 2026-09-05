@@ -1,19 +1,19 @@
 {
-    "version": "1.8.2",
+    "version": "1.8.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/portuber/portato/releases/download/v1.8.2/portato_1.8.2_Windows_x86_64.zip",
+            "url": "https://github.com/portuber/portato/releases/download/v1.8.3/portato_1.8.3_Windows_x86_64.zip",
             "bin": [
                 "portato.exe"
             ],
-            "hash": "9265e8b40dd3740a349a5911d7350487e4199b849d50fce6362168f1398224be"
+            "hash": "806793f127a61879c1accbfbe3c9801ef899d7b7355b90b5a9536ee1721da57a"
         },
         "arm64": {
-            "url": "https://github.com/portuber/portato/releases/download/v1.8.2/portato_1.8.2_Windows_arm64.zip",
+            "url": "https://github.com/portuber/portato/releases/download/v1.8.3/portato_1.8.3_Windows_arm64.zip",
             "bin": [
                 "portato.exe"
             ],
-            "hash": "ba8da9b77ead5adf9d5442533d1baec9d5900f9c251ac2f9404278da5b5344b9"
+            "hash": "7d1bc71c6a01367e0485573a22f525560fdf4756c277b993294b0d380065949d"
         }
     },
     "homepage": "https://github.com/portuber/portato",
